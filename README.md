@@ -1,4 +1,4 @@
-# AStar Algorithm in Java
+<h1 align="center">AStar Algorithm in Java</h1>
 A program which implements the A* Search Algorithm to find the shortest path between a START and a GOAL node.
 
 
